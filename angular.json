@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "money-manager-client"
+    }
+  },
+  "defaultProject": "money-manager-client",
+  "cli": {
+    "analytics": false
+  }
 }
